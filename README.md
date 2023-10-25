@@ -1,6 +1,4 @@
-# About Me
-
-Hey there! 🙌
+# Hey there! 🙌
 
 I'm a Front-End Developer with a deep love for crafting exceptional web experiences. Here are some things I'm passionate about:
 
